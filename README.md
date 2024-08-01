@@ -112,6 +112,3 @@ This is a basic eCommerce application built using Next.js. The application allow
 - `eslint`
 - `eslint-config-next`
 
-## License
-
-This project is licensed under the ISC License.
