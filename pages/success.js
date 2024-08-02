@@ -22,7 +22,7 @@ const Success = () => {
           <BsBagCheckFill />
         </p>
         <h2>Thank you for your order!</h2>
-        <p className="email-msg">Look Out for more deals on our we.</p>
+        <p className="email-msg">Look Out for more deals on our website.</p>
         <p className="description">
           If you have any questions, please email
           <a className="email" href="mailto:ganeshvathumilli@gmail.com">
