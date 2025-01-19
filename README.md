@@ -1,10 +1,10 @@
 ![Cover Photo](images/img2.png)
 
-# Basic eCommerce Application
+# E - Commerce Clone Application
 
 ## Overview
 
-This is a basic eCommerce application built using Next.js. The application allows users to browse products, add them to the cart, and proceed to checkout using Stripe for payment processing. The application also leverages Sanity for managing product data.
+This is a basic E Commerce application built using Next.js. The application allows users to browse products, add them to the cart, and proceed to checkout using Stripe for payment processing. The application also leverages Sanity for managing product data.
 
 ## Table of Contents
 
