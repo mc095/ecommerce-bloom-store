@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is a basic E Commerce application built using Next.js. The application allows users to browse products, add them to the cart, and proceed to checkout using Stripe for payment processing. The application also leverages Sanity for managing product data.
+This is a basic E Commerce application built using Next.js. The application allows users to browse products, add them to the cart.
 
 ## Table of Contents
 
@@ -20,8 +20,6 @@ This is a basic E Commerce application built using Next.js. The application allo
 
 - Product listing and details
 - Shopping cart functionality
-- Secure checkout with Stripe
-- Product data management with Sanity
 
 ## Technologies Used
 
@@ -31,7 +29,6 @@ This is a basic E Commerce application built using Next.js. The application allo
 - React
 - React Icons
 - React Hot Toast
-- Next Sanity Image
 - Canvas Confetti
 
 ## Getting Started
@@ -95,8 +92,6 @@ This is a basic E Commerce application built using Next.js. The application allo
 ### Production Dependencies
 
 - `@babel/core`
-- `@sanity/client`
-- `@sanity/image-url`
 - `canvas-confetti`
 - `next`
 - `next-sanity-image`
@@ -104,7 +99,6 @@ This is a basic E Commerce application built using Next.js. The application allo
 - `react-dom`
 - `react-hot-toast`
 - `react-icons`
-- `stripe`
 
 ### Development Dependencies
 
