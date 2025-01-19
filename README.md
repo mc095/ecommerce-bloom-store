@@ -94,7 +94,6 @@ This is a basic E Commerce application built using Next.js. The application allo
 - `@babel/core`
 - `canvas-confetti`
 - `next`
-- `next-sanity-image`
 - `react`
 - `react-dom`
 - `react-hot-toast`
